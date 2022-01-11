@@ -2,4 +2,4 @@ Reservia est le deuxième projet du parcours Développeur Web chez OpenClassroom
 
 Il est demandé d'intégrer la maquette d'un site de planification de vacances.
 
-Stack : HTML5, CSS3
+Tech stack : HTML5, CSS3
