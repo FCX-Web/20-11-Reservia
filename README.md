@@ -1,4 +1,6 @@
-Reservia est le deuxième projet du parcours Développeur Web chez OpenClassrooms. 
+Reservia est le deuxième projet du parcours Développeur Web chez OpenClassrooms.
+
+Site : https://fcx-web.github.io/20-11-Reservia/
 
 Il est demandé d'intégrer la maquette d'un site de planification de vacances.
 
