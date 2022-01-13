@@ -4,4 +4,4 @@ Il est demandé d'intégrer la maquette d'un site de planification de vacances.
 
 Tech stack : HTML5, CSS3
 
-Cahier des charges disponible ci-dessus : cahier-des-charges_Reservia.pdf
+Cahier des charges disponible ci-dessus : https://github.com/FCX-Web/20-11-Reservia/blob/main/reservia.pdf
